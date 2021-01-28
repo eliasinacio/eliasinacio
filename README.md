@@ -7,8 +7,8 @@
 </p>
 
 <h2> Sobre mim </h2>
-<p> Sou de Juazeiro do Norte, Ceará. Tenho 18 anos, faço Ciência da Computação. 
-Amo programação e espero viver só disso um dia. Tenho mais gosto pelo desenvolvimento web e estou há 2 anos estudando a respeito. Tanto front end como back end.
+<p> Sou de Juazeiro do Norte, Ceará, Brasil. Tenho 18 anos, faço Ciência da Computação.
+Amo programação e espero viver só disso um dia. Tenho mais gosto pelo desenvolvimento web e estou há 2 anos estudando a respeito, tanto front-end como back-end. <br>
 Desenvolvi alguns projetos simples de estudo com HTML, CSS e JS. Ultimamente estou estudando Node.js e APIs.</p>
 
 <h2>Estatísticas</h2>
