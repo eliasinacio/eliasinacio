@@ -6,9 +6,8 @@
   <a href="https://instagram.com/eu_liaaas"><img width=30 src="https://github.com/eliasinacio/eliasinacio/blob/main/assets/instagram-logo.svg"></a>
 </p>
 
-<h2> Sobre mim <h2>
-  
-<p>Sou de Juazeiro do Norte, Ceará. Tenho 18 anos, faço Ciência da Computação. 
+<h2> Sobre mim </h2>
+<p> Sou de Juazeiro do Norte, Ceará. Tenho 18 anos, faço Ciência da Computação. 
 Amo programação e espero viver só disso um dia. Tenho mais gosto pelo desenvolvimento web e estou há 2 anos estudando a respeito. Tanto front end como back end.
 Desenvolvi alguns projetos simples de estudo com HTML, CSS e JS. Ultimamente estou estudando Node.js e APIs.</p>
 
