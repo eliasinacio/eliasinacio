@@ -26,4 +26,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasinacio&layout=compact&theme=tokyonight" alt="Elias Top Languages" width="auto"/>
 </p>
 
-<blockquote> <em> Supere seus limites e então um caminho vai se abrir prara você. </em> </blockquote>
+<blockquote> <em> Supere seus limites e então um caminho vai se abrir para você. </em> </blockquote>
