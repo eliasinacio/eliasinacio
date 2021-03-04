@@ -8,7 +8,7 @@
 
 <h3>:pushpin: Sobre mim </h3>
 <p> 
-  Sou de Juazeiro do Norte, Ceará, Brasil. Tenho 18 anos e estou cursando Ciência da Computação na UFCA.
+  Sou de Juazeiro do Norte, Ceará, Brasil. Tenho 19 anos e estou cursando Ciência da Computação na UFCA.
   Amo programação e espero trabalhar e viver com isso um dia. Gosto de desenvolvimento web e estou há 2 anos estudando a respeito, tanto front-end como back-end. </p>
   
 <h4>:books: Tenho trabalhado com </h4>
