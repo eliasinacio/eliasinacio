@@ -2,7 +2,7 @@
 
 <p align="center" display="inline">
   <a href="https://linkedin.com/in/elias-inacio0"><img width=30 src="https://github.com/eliasinacio/eliasinacio/blob/main/assets/linkedin-logo.svg"></a>
-  <a href="https://twitter.com/eu_liaaas"><img width=30 src="https://github.com/eliasinacio/eliasinacio/blob/main/assets/twitter-logo.svg"></a>
+  <a href="https://twitter.com/eliasinacio.1"><img width=30 src="https://github.com/eliasinacio/eliasinacio/blob/main/assets/twitter-logo.svg"></a>
   <a href="https://instagram.com/eu_liaaas"><img width=30 src="https://github.com/eliasinacio/eliasinacio/blob/main/assets/instagram-logo.svg"></a>
 </p>
 
