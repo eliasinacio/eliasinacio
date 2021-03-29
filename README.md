@@ -9,14 +9,13 @@
 <h3>:pushpin: Sobre mim </h3>
 <p> 
   Sou de Juazeiro do Norte, Ceará, Brasil. Tenho 19 anos.
-  Amo programação e estou aspirando trabalhar e viver com isso um dia. Gosto de desenvolvimento web e estou há 2 anos estudando a respeito, tanto front-end como back-end. </p>
+  Amo programação e estou há 2 anos estudando desenvolvimento web. Gosto do front mas estou me aventurando no back-end também. </p>
   
 <h4>:books: Tenho trabalhado com </h4>
 <ul>
   <li>HTML5, CSS3, Javascript </li>
   <li>Git</>
   <li>Node.js</li>
-  <li>APIs</li>
 </ul>
 
 <h2> :bar_chart: Estatísticas</h2>
