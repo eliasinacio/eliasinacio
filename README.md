@@ -8,14 +8,15 @@
 
 <h3>:pushpin: Sobre mim </h3>
 <p> 
-  Sou de Juazeiro do Norte, Ceará, Brasil. Tenho 19 anos.
-  Amo programação e estou há 2 anos estudando desenvolvimento web. Gosto do front mas estou me aventurando no back-end também. </p>
+  Tenho 19 anos e sou de Juazeiro do Norte, Ceará. Estudo programação há 2 anos e no último venho focando no front-end. Desenvolvo algumas coisas com HTML, CSS e JS, e agora estou estudando ReactJS.  
+</p>
   
 <h4>:books: Tenho trabalhado com </h4>
-<ul>
-  <li>HTML5, CSS3, Javascript </li>
+<ul list-style-type="none">
+  <li>HTML5, CSS3</li>
+  <li>Javascript</li>
   <li>Git</>
-  <li>Node.js</li>
+  <li>React</li>
 </ul>
 
 <h2> :bar_chart: Estatísticas</h2>
