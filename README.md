@@ -1,6 +1,7 @@
 <h2 align="center"> :sparkles: welcome :sparkles: </h2>
 
 <p align="center" display="inline">
+  <a href="https://codepen.io/eliasinacio"><img width=30 src="https://img.icons8.com/windows/32/000000/codepen.png"></a>
   <a href="https://linkedin.com/in/elias-inacio0"><img width=30 src="https://github.com/eliasinacio/eliasinacio/blob/main/assets/linkedin-logo.svg"></a>
   <a href="https://twitter.com/eliasinacio_1"><img width=30 src="https://github.com/eliasinacio/eliasinacio/blob/main/assets/twitter-logo.svg"></a>
   <a href="https://instagram.com/eliasinacio.1"><img width=30 src="https://github.com/eliasinacio/eliasinacio/blob/main/assets/instagram-logo.svg"></a>
