@@ -12,10 +12,11 @@
   Tenho 19 anos e sou de Juazeiro do Norte, Ceará. Estudo programação há 2 anos e no último venho focando no front-end. Desenvolvo algumas coisas com HTML, CSS e JS, e agora estou estudando ReactJS.  
 </p>
   
-<h4>:books: Tenho trabalhado com </h4>
+<h4>:books: Habilidades </h4>
 <ul list-style-type="none">
   <li>HTML5, CSS3</li>
   <li>Javascript</li>
+  <li>Web Design Responsivo</li>
   <li>Git</>
   <li>React</li>
 </ul>
