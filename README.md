@@ -18,6 +18,7 @@
   <li>Javascript</li>
   <li>Web Design Responsivo</li>
   <li>Git</>
+  <li>Bootstrap</l1>
   <li>React</li>
 </ul>
 
