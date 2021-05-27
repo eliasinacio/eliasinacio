@@ -19,7 +19,6 @@
   <li>Web Design Responsivo</li>
   <li>Git</>
   <li>Bootstrap</l1>
-  <li>React.JS</li>
 </ul>
 
 <h2> :bar_chart: Estatísticas</h2>
