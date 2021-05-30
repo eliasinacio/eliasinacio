@@ -14,7 +14,8 @@
   
 <h4>:books: Habilidades </h4>
 <ul list-style-type="none">
-  <li>HTML5, CSS3</li>
+  <li>HTML5</li>
+  <li>CSS3 - Sass/SCSS</li>
   <li>Javascript</li>
   <li>Web Design Responsivo</li>
   <li>Git</>
