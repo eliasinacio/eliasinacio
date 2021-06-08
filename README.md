@@ -9,20 +9,19 @@
 
 <h3>:pushpin: Sobre mim </h3>
 <p> 
-  Tenho 19 anos e sou de Juazeiro do Norte, Ceará. Estudo programação há 2 anos e no último venho focando no front-end. Desenvolvo algumas coisas com HTML, CSS e JS, e agora estou estudando ReactJS.  
+  Tenho 19 anos, sou de Juazeiro do Norte, Ceará, e estou no meio da programação há dois anos, a maior parte estudando desenvolvimento web e
+front end. Atualmente me aventurando com ReactJS.
 </p>
-  
-<h4>:books: Habilidades </h4>
-<ul list-style-type="none">
-  <li>HTML5</li>
-  <li>CSS3 - Sass/SCSS</li>
-  <li>Javascript</li>
-  <li>Web Design Responsivo</li>
-  <li>Git</>
-  <li>Bootstrap</l1>
-</ul>
 
-<h2> :bar_chart: Estatísticas</h2>
+<div>
+  <img src="https://img.icons8.com/color/36/000000/html-5--v1.png"/>
+  <img src="https://img.icons8.com/color/36/000000/css3.png"/>
+  <img src="https://img.icons8.com/color/36/000000/javascript.png"/>
+  <img src="https://img.icons8.com/color/36/000000/sass.png"/>
+  <img src="https://img.icons8.com/officel/36/000000/react.png"/>
+  <img src="https://img.icons8.com/color/36/000000/bootstrap.png"/>
+</div>
+<hr/>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=eliasinacio&count_private=true&show_icons=true&theme=tokyonight" alt="Elias github status" width="450"/>
   &nbsp; &nbsp; &nbsp; 
