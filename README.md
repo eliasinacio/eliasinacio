@@ -21,9 +21,9 @@
 </div>
 <hr/>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=eliasinacio&count_private=true&show_icons=true&theme=tokyonight" alt="Elias github status" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=eliasinacio&count_private=true&show_icons=true&theme=tokyonight" alt="Elias github status" width="430"/>
   &nbsp; &nbsp; &nbsp; 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasinacio&layout=compact&theme=tokyonight" alt="Elias Top Languages" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasinacio&layout=compact&theme=tokyonight" alt="Elias Top Languages" width="360"/>
 </div>
 
 <blockquote> <em> Supere seus limites e então um caminho vai se abrir para você. </em> </blockquote>
