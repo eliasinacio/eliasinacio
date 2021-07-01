@@ -1,4 +1,4 @@
-<h2 align="center"> :v: salvee, eu sou o lias :sparkles: </h2>
+<h2 align="center"> :sparkles: :v: salvee, eu sou o lias :sparkles: </h2>
 
 <p align="center" display="inline">
   <a href="https://codepen.io/eliasinacio"><img width=30 src="https://github.com/eliasinacio/eliasinacio/blob/main/assets//codepen.png"></a>
