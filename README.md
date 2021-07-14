@@ -12,15 +12,15 @@
 </p>
 
 <div align="center">
-  <img src="https://img.icons8.com/color/36/000000/html-5--v1.png"/>
-  <img src="https://img.icons8.com/color/36/000000/css3.png"/>
-  <img src="https://img.icons8.com/color/36/000000/javascript.png"/>
-  <img src="https://img.icons8.com/color/36/000000/typescript.png"/>
-  <img src="https://img.icons8.com/officel/36/000000/react.png"/>
-  <img src="https://img.icons8.com/emoji/36/000000/nail-polish-.png"/>
-  <img src="https://img.icons8.com/color/36/000000/sass.png"/>
-  <img src="https://img.icons8.com/color/36/000000/bootstrap.png"/>
-  <img src="https://img.icons8.com/color/36/000000/firebase.png"/>
+  <img src="https://img.icons8.com/color/32/000000/html-5--v1.png"/>
+  <img src="https://img.icons8.com/color/32/000000/css3.png"/>
+  <img src="https://img.icons8.com/color/32/000000/javascript.png"/>
+  <img src="https://img.icons8.com/color/32/000000/typescript.png"/>
+  <img src="https://img.icons8.com/officel/32/000000/react.png"/>
+  <img src="https://img.icons8.com/emoji/32/000000/nail-polish-.png"/>
+  <img src="https://img.icons8.com/color/32/000000/sass.png"/>
+  <img src="https://img.icons8.com/color/32/000000/bootstrap.png"/>
+  <img src="https://img.icons8.com/color/32/000000/firebase.png"/>
 </div>
 <hr/>
 <div align="center">
