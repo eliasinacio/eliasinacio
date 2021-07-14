@@ -23,7 +23,7 @@
   <img src="https://img.icons8.com/color/36/000000/firebase.png"/>
 </div>
 <hr/>
-<div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eliasinacio&count_private=true&show_icons=true&theme=tokyonight" alt="Elias github status" width="430"/>
   &nbsp; &nbsp; &nbsp; 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasinacio&layout=compact&theme=tokyonight" alt="Elias Top Languages" width="360"/>
