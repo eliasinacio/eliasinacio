@@ -7,8 +7,8 @@
   <a href="https://instagram.com/liaasdev"><img width=30 src="https://github.com/eliasinacio/eliasinacio/blob/main/assets/instagram-logo.svg"></a>
 </p>
 <p>
-  Opa, me chamo Elias e tenho 19 anos. Sou de Juazeiro do Norte, Ceará. Estudo programação há dois anos, a maior parte desenvolvimento web.
-  Atualmente me aventurando com ReactJS. Amo ler e ouvir um lofizinho. Qualquer coisa chama no twitter ou no insta pra bater um papo :)
+  Opa, me chamo Elias e tenho 19 anos. Sou de Juazeiro do Norte, Ceará. Estudo programação há dois anos, na maior parte do tempo desenvolvimento web.
+  Atualmente me aventurando no ReactJS. Amo ler e ouvir um lofizinho :) 
 </p>
 
 <div align="center">
