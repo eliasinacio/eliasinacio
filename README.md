@@ -3,7 +3,7 @@
 <p align="center" display="inline">
   <a href="https://codepen.io/eliasinacio"><img width=30 src="https://github.com/eliasinacio/eliasinacio/blob/main/assets//codepen.png"></a>
   <a href="https://linkedin.com/in/elias-inacio0"><img width=30 src="https://github.com/eliasinacio/eliasinacio/blob/main/assets/linkedin-logo.svg"></a>
-  <a href="https://twitter.com/eliasinacio_1"><img width=30 src="https://github.com/eliasinacio/eliasinacio/blob/main/assets/twitter-logo.svg"></a>
+  <a href="https://twitter.com/liaasdev"><img width=30 src="https://github.com/eliasinacio/eliasinacio/blob/main/assets/twitter-logo.svg"></a>
   <a href="https://instagram.com/liaasdev"><img width=30 src="https://github.com/eliasinacio/eliasinacio/blob/main/assets/instagram-logo.svg"></a>
 </p>
 <p>
