@@ -20,7 +20,6 @@
   <img src="https://img.icons8.com/emoji/32/000000/nail-polish-.png"/>
   <img src="https://img.icons8.com/color/32/000000/sass.png"/>
   <img src="https://img.icons8.com/color/32/000000/bootstrap.png"/>
-  <img src="https://img.icons8.com/color/32/000000/firebase.png"/>
 </div>
 <hr/>
 <div align="center">
