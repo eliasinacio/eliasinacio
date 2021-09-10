@@ -8,18 +8,17 @@
 </p>
 <p>
   Me chamo Elias e tenho 19 anos. Sou de Juazeiro do Norte, Ceará. Estudo programação há dois anos, na maior parte do tempo desenvolvimento web.
-  Atualmente me aventurando no ReactJS. Amo ler, ouvir um lofizinho e brincar com pixel art :) 
+  Atualmente me aventurando com React e Typescript. Amo lo-fi, livros e pixel art :)
 </p>
 
 <div align="center">
-  <img src="https://img.icons8.com/color/32/000000/html-5--v1.png"/>
-  <img src="https://img.icons8.com/color/32/000000/css3.png"/>
   <img src="https://img.icons8.com/color/32/000000/javascript.png"/>
   <img src="https://img.icons8.com/color/32/000000/typescript.png"/>
   <img src="https://img.icons8.com/officel/32/000000/react.png"/>
   <img src="https://img.icons8.com/emoji/32/000000/nail-polish-.png"/>
+  <img src="https://img.icons8.com/color/32/000000/html-5--v1.png"/>
+  <img src="https://img.icons8.com/color/32/000000/css3.png"/>
   <img src="https://img.icons8.com/color/32/000000/sass.png"/>
-  <img src="https://img.icons8.com/color/32/000000/bootstrap.png"/>
 </div>
 <hr/>
 <div align="center">
