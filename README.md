@@ -6,9 +6,9 @@
   <a href="https://twitter.com/liaasdev"><img width=30 src="https://github.com/eliasinacio/eliasinacio/blob/main/assets/twitter-logo.svg"></a>
   <a href="https://instagram.com/liaasdev"><img width=30 src="https://github.com/eliasinacio/eliasinacio/blob/main/assets/instagram-logo.svg"></a>
 </p>
-<p>
+<p align="center">
   Me chamo Elias e tenho 19 anos. Sou de Juazeiro do Norte, Ceará. Estudo programação há dois anos, na maior parte do tempo desenvolvimento web.
-  Atualmente me aventurando com React e Typescript. Amo lo-fi, livros e pixel art :)
+  Atualmente me aventurando com React e Typescript. <br/> Amo lo-fi, livros e pixel art :)
 </p>
 
 <div align="center">
