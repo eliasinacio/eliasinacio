@@ -7,8 +7,7 @@
   <a href="https://instagram.com/liaasdev"><img src="https://img.icons8.com/fluency/36/000000/instagram-new.png"/></a>
 </p>
 <p align="center">
-  Me chamo Elias e tenho 19 anos. Sou de Juazeiro do Norte, Ceará. Estudo programação há dois anos, na maior parte do tempo desenvolvimento web.
-  Atualmente me aventurando com React e Typescript. <br/> Curto bastante lo-fi, livros e pixel art :)
+  Me chamo Elias e tenho 19 anos. Sou de Juazeiro do Norte, Ceará. <br/> Curto bastante lo-fi, livros e pixel art :)
 </p>
 
 <div align="center">
