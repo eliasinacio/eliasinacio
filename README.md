@@ -4,7 +4,6 @@
   <a href="https://linkedin.com/in/elias-inacio0"><img src="https://img.icons8.com/color/36/000000/linkedin.png"/></a>
   <a href="https://codepen.io/eliasinacio"><img src="https://img.icons8.com/color/36/ffffff/codepen.png"/></a>
   <a href="https://twitter.com/liaasdev"><img src="https://img.icons8.com/color/36/000000/twitter-squared.png"/></a>
-  <a href="https://instagram.com/liaasdev"><img src="https://img.icons8.com/fluency/36/000000/instagram-new.png"/></a>
 </p>
 <p align="center">
   Me chamo Elias e tenho 19 anos. Sou de Juazeiro do Norte, Ceará. <br/> Curto bastante lo-fi, livros e pixel art :)
