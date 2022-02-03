@@ -6,7 +6,7 @@
   <a href="https://twitter.com/liaasdev"><img src="https://img.icons8.com/color/36/000000/twitter-squared.png"/></a>
 </p>
 <p align="center">
-  Me chamo Elias e tenho 19 anos. Sou de Juazeiro do Norte, Ceará. <br/> Curto bastante lo-fi, livros e pixel art :)
+  Me chamo Elias e tenho 19 anos. Sou de Juazeiro do Norte, Ceará. <br/> Curto lo-fi, livros e pixel art :)
 </p>
 
 <div align="center">
