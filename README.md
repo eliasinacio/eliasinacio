@@ -24,7 +24,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eliasinacio&count_private=true&show_icons=true&theme=tokyonight" alt="Elias github status" width="430"/>
-  <br>
+  &nbsp; &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasinacio&layout=compact&theme=tokyonight" alt="Elias Top Languages" width="360"/>
 </div>
 
