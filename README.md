@@ -6,7 +6,7 @@
   <a href="https://twitter.com/liaas_js"><img src="https://img.icons8.com/color/36/000000/twitter-squared.png"/></a>
 </p>
 <p align="center">
-  Me chamo Elias e tenho 19 anos. Sou de Juazeiro do Norte, Ceará. <br>
+  Me chamo Elias e tenho 20 anos. Sou de Juazeiro do Norte, Ceará. <br>
   Atualmente trabalho na JBQ.Global como Desenvolvedor Front-end Jr. 
 </p>
 
