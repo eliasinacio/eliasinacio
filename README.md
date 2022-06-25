@@ -28,4 +28,4 @@
 
 <br>
 
-<blockquote> <em> Supere seus limites e então um caminho vai se abrir para você. </em> </blockquote>
+<blockquote> <em> Supere seus limites e então o caminho vai se abrir para você. </em> </blockquote>
