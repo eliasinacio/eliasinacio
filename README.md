@@ -7,7 +7,7 @@
 </p>
 <p align="center">
   Me chamo Elias e tenho 20 anos. Sou de Juazeiro do Norte, Ceará. <br>
-  Atualmente trabalho na JBQ.Global como Desenvolvedor Front-end Jr. 
+  Atualmente trabalho na JBQ.Global como Desenvolvedor Fullstack Jr. 
 </p>
 
 <div align="center">
