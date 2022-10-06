@@ -1,9 +1,9 @@
 <h2 display="inline">
   :sparkles: :v: salvee, eu sou o Elias :sparkles: 
   <span>
-    <a href="https://linkedin.com/in/elias-inacio0"><img src="https://img.icons8.com/color/32/000000/linkedin.png"/></a>
-    <a href="https://codepen.io/eliasinacio"><img src="https://img.icons8.com/color/32/ffffff/codepen.png"/></a>
-    <a href="https://twitter.com/liaas_js"><img src="https://img.icons8.com/color/32/000000/twitter-squared.png"/></a>
+    <a href="https://linkedin.com/in/elias-inacio0"><img src="https://img.icons8.com/color/26/000000/linkedin.png"/></a>
+    <a href="https://codepen.io/eliasinacio"><img src="https://img.icons8.com/color/26/ffffff/codepen.png"/></a>
+    <a href="https://twitter.com/liaas_js"><img src="https://img.icons8.com/color/26/000000/twitter-squared.png"/></a>
   </span>
 </h2>
 
