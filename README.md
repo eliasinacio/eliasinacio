@@ -1,4 +1,4 @@
-<h2 align="center"> :sparkles: :v: salvee, eu sou o lias :sparkles: </h2>
+<h2 align="center"> :sparkles: :v: salvee, eu sou o Elias :sparkles: </h2>
 
 <p align="center" display="inline">
   <a href="https://linkedin.com/in/elias-inacio0"><img src="https://img.icons8.com/color/36/000000/linkedin.png"/></a>
