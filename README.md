@@ -8,19 +8,24 @@
 </h2>
 
 <p>
-  Tenho 20 anos e sou de Juazeiro do Norte, Ceará. Amo música e estudar ouvindo lo-fi. <br>
-  Atualmente trabalho na JBQ.Global como Desenvolvedor Fullstack Jr.
+  Tenho 20 anos e sou de Juazeiro do Norte, Ceará. Amo lo-fi e pixelart. <br>
+  Atualmente trabalho na JBQ.Global como Desenvolvedor Fullstack Jr. 
+</p>
+
+<p>
+  Essas são algumas tecnologias que conheço e estudo:
 </p>
 
 <div>
-  <img src="https://img.icons8.com/color/32/000000/javascript.png"/>
-  <img src="https://img.icons8.com/color/32/000000/typescript.png"/>
-  <img src="https://img.icons8.com/officel/32/000000/react.png"/>
-  <img src="https://img.icons8.com/emoji/32/000000/nail-polish-.png"/>
-  <img src="https://img.icons8.com/color/32/000000/sass.png"/>
+  <img src="https://img.icons8.com/color/36/000000/javascript.png"/>
+  <img src="https://img.icons8.com/color/36/000000/typescript.png"/>
+  <img src="https://img.icons8.com/officel/36/000000/react.png"/>
+  <img src="https://img.icons8.com/nolan/36/react-native.png"/>
+  <img src="https://img.icons8.com/emoji/36/000000/nail-polish-.png"/>
+  <img src="https://img.icons8.com/color/36/000000/sass.png"/>
 </div>
 
-<br>
+<p> Também possuo experiência com Oracle Commerce Cloud (Classic), Jquery e Knockout.JS </p>
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=eliasinacio&count_private=true&show_icons=true&theme=tokyonight" alt="Elias github status" width="430"/>
@@ -30,4 +35,4 @@
 
 <br>
 
-<blockquote> <em> Faça pouco ou faça muito, mas faça algo todo dia. </em> </blockquote>
+<blockquote> <em> Faça pouco ou faça muito, mas faça algo todos os dias. </em> </blockquote>
