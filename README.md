@@ -8,7 +8,7 @@
 </h2>
 
 <p>
-  Tenho 20 anos e sou de Juazeiro do Norte, Ceará. Amo lo-fi e pixelart. <br>
+  Tenho 21 anos e sou de Juazeiro do Norte, Ceará. Amo lo-fi e pixelart. <br>
   Atualmente trabalho na JBQ.Global como Desenvolvedor Fullstack Jr. 
 </p>
 
