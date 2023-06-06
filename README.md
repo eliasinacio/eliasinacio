@@ -25,7 +25,7 @@
   <img src="https://img.icons8.com/color/36/000000/sass.png"/>
 </div>
 
-<p> Atuando há um ano com Oracle Commerce Cloud (Classic), Jquery e Knockout.JS </p>
+<p> Atuando há um ano com Oracle Commerce Cloud (Classice OSF) </p>
 
 <!-- <div>
   <img src="https://github-readme-stats.vercel.app/api?username=eliasinacio&count_private=true&show_icons=true&theme=tokyonight" alt="Elias github status" width="430"/>
