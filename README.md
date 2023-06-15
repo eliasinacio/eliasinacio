@@ -2,7 +2,7 @@
   :sparkles: :v: salvee, eu sou o Elias :sparkles: 
   <span>
     <a href="https://linkedin.com/in/elias-inacio0"><img src="https://img.icons8.com/color/26/000000/linkedin.png"/></a>
-    <a href="https://codepen.io/eliasinacio"><img src="https://img.icons8.com/color/26/ffffff/codepen.png"/></a>
+    <a href="https://codepen.io/eliasinacio"><img src="https://img.icons8.com/ios-filled/26/FFFFFF/codepen.png"/></a>
     <a href="https://twitter.com/_oeliasdev"><img src="https://img.icons8.com/color/26/000000/twitter-squared.png"/></a>
   </span>
 </h2>
