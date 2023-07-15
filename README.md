@@ -1,5 +1,5 @@
 <h2 display="inline">
-  :sparkles: :v: salvee, eu sou o Elias :sparkles: 
+  :sparkles: Opaa, eu sou o Elias:v::sparkles: 
   <span>
     <a href="https://linkedin.com/in/elias-inacio0"><img src="https://img.icons8.com/color/26/000000/linkedin.png"/></a>
     <a href="https://codepen.io/eliasinacio"><img src="https://img.icons8.com/ios-filled/26/FFFFFF/codepen.png"/></a>
@@ -8,9 +8,12 @@
 </h2>
 
 <p>
-  Tenho 21 anos e sou de Juazeiro do Norte, Ceará. Amo lo-fi e pixelart. <br>
-  Atualmente trabalho na JBQ.Global como Desenvolvedor Fullstack Jr. 
+  Tenho 21 anos e sou de Juazeiro do Norte, Ceará, Brasil. <br>
+  Estudo programação e desenvolvimento Web desde 2019 e adoro brincar com estilização e animações. <br>
+  Atualmente trabalho na JBQ.Global como Desenvolvedor Fullstack Jr.
 </p>
+
+<p> Atuo há quase dois anos com Oracle Commerce Cloud (Classic e OSF) </p>
 
 <p>
   Essas são algumas tecnologias que conheço e estudo:
@@ -25,12 +28,16 @@
   <img src="https://img.icons8.com/color/36/000000/sass.png"/>
 </div>
 
-<p> Atuando há quase dois anos com Oracle Commerce Cloud (Classic e OSF) </p>
-
-<!-- <div>
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=eliasinacio&count_private=true&show_icons=true&theme=tokyonight" alt="Elias github status" width="430"/>
   &nbsp; &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasinacio&layout=compact&theme=tokyonight" alt="Elias Top Languages" width="360"/>
-</div> -->
+</div>
+
+<br>
+
+<p>
+  Amo lo-fi e Pixel art. Crio algumas artes de vez em quando e você pode conferir <a href="https://www.pixilart.com/oeliasdev">aqui</a> :)
+</p>
 
 <blockquote> <em> Faça pouco ou faça muito, mas faça algo todos os dias. </em> </blockquote>
