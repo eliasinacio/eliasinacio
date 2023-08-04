@@ -1,6 +1,6 @@
 <h2 display="inline">
-  :sparkles: Opaa, eu sou o Elias:v::sparkles: 
-  <span>
+  Opaa, eu sou o Elias :v: 
+  <span align="right">
     <a href="https://linkedin.com/in/elias-inacio0"><img src="https://img.icons8.com/color/26/000000/linkedin.png"/></a>
     <a href="https://codepen.io/eliasinacio"><img src="https://img.icons8.com/ios-filled/26/FFFFFF/codepen.png"/></a>
     <a href="https://twitter.com/_oeliasdev"><img src="https://img.icons8.com/color/26/000000/twitter-squared.png"/></a>
@@ -9,11 +9,13 @@
 
 <p>
   Tenho 21 anos e sou de Juazeiro do Norte, Ceará, Brasil. <br>
-  Estudo programação e desenvolvimento Web desde 2019 e adoro brincar com estilização e animações. <br>
-  Atualmente trabalho na JBQ.Global como Desenvolvedor Fullstack Jr.
+  Amo lo-fi e Pixel art. Crio algumas artes de vez em quando e você pode conferir <a href="https://www.pixilart.com/oeliasdev">aqui :)</a> 
 </p>
 
-<p> Atuo há quase dois anos com Oracle Commerce Cloud (Classic e OSF) </p>
+<p>
+  Estudo programação e desenvolvimento Web desde 2019 e atualmente trabalho na JBQ.Global como Desenvolvedor Fullstack Jr. <br>
+  Atuo há quase dois anos com Oracle Commerce Cloud (Classic e OSF) 
+</p>
 
 <p>
   Essas são algumas tecnologias que conheço e estudo:
@@ -35,9 +37,5 @@
 </div>
 
 <br>
-
-<p>
-  Amo lo-fi e Pixel art. Crio algumas artes de vez em quando e você pode conferir <a href="https://www.pixilart.com/oeliasdev">aqui</a> :)
-</p>
 
 <blockquote> <em> Faça pouco ou faça muito, mas faça algo todos os dias. </em> </blockquote>
