@@ -14,7 +14,8 @@
 
 <p>
   Estudo programação e desenvolvimento Web desde 2019 e atualmente trabalho na JBQ.Global como Desenvolvedor Fullstack Jr. <br>
-  Atuo há quase dois anos com Oracle Commerce Cloud (Classic e OSF) 
+  Atuo há quase dois anos com Oracle Commerce Cloud (Classic e OSF). <br>
+  Cursando Análise e Desenvolvimento de Sistemas na Uninter.
 </p>
 
 <p>
