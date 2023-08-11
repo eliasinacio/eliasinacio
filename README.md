@@ -23,12 +23,11 @@
 </p>
 
 <div>
-  <img src="https://img.icons8.com/color/36/000000/javascript.png"/>
-  <img src="https://img.icons8.com/color/36/000000/typescript.png"/>
-  <img src="https://img.icons8.com/officel/36/000000/react.png"/>
-  <img src="https://img.icons8.com/nolan/36/react-native.png"/>
-  <img src="https://img.icons8.com/emoji/36/000000/nail-polish-.png"/>
-  <img src="https://img.icons8.com/color/36/000000/sass.png"/>
+  <img src="https://img.icons8.com/color/36/000000/javascript.png" title="Javascript" alt="Javascript" />
+  <img src="https://img.icons8.com/color/36/000000/typescript.png" title="Typescript" alt="Typescript" />
+  <img src="https://img.icons8.com/officel/36/000000/react.png" title="React" alt="React"/>
+  <img src="https://img.icons8.com/emoji/36/000000/nail-polish-.png" title="Styled components" alt="Styled Components"/>
+  <img src="https://img.icons8.com/color/36/000000/sass.png" title="Sass" alt="Sass"/>
 </div>
 
 <div>
