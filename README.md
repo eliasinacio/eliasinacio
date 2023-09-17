@@ -7,9 +7,8 @@
 Tenho 21 anos e sou de Juazeiro do Norte, Ceará, Brasil. <br>
 Amo lo-fi e Pixel art. Crio algumas artes de vez em quando e você pode conferir [aqui :)](https://www.pixilart.com/oeliasdev)
 
-Estudo programação e desenvolvimento Web desde 2019 e atualmente trabalho na JBQ.Global como Desenvolvedor Fullstack Jr. <br>
-Atuo há dois anos com Oracle Commerce Cloud (Classic e OSF). <br>
-Cursando Análise e Desenvolvimento de Sistemas na Uninter.
+Estudo programação e desenvolvimento web desde 2019 e estou cursando Análise e Desenvolvimento de Sistemas na Uninter. <br>
+Atuo como Desenvolvedor Fullstack Jr na [JBQ.Global](https://jbq.global). Há dois anos trabalhando com Oracle Commerce Cloud (Classic e OSF).
 
 Essas são algumas tecnologias que conheço e estudo:
 
