@@ -1,41 +1,27 @@
-<h2 display="inline">
-  Opaa, eu sou o Elias :v: 
-  <span align="right">
-    <a href="https://linkedin.com/in/elias-inacio0"><img src="https://img.icons8.com/color/26/000000/linkedin.png"/></a>
-    <a href="https://codepen.io/eliasinacio"><img src="https://img.icons8.com/ios-filled/26/FFFFFF/codepen.png"/></a>
-    <a href="https://twitter.com/_oeliasdev"><img src="https://img.icons8.com/color/26/000000/twitter-squared.png"/></a>
-  </span>
-</h2>
+# Opaa, eu sou o Elias :v:
 
-<p>
-  Tenho 21 anos e sou de Juazeiro do Norte, Ceará, Brasil. <br>
-  Amo lo-fi e Pixel art. Crio algumas artes de vez em quando e você pode conferir <a href="https://www.pixilart.com/oeliasdev">aqui :)</a> 
-</p>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elias-inacio0)
+[![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/eliasinacio)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_oeliasdev)
 
-<p>
-  Estudo programação e desenvolvimento Web desde 2019 e atualmente trabalho na JBQ.Global como Desenvolvedor Fullstack Jr. <br>
-  Atuo há quase dois anos com Oracle Commerce Cloud (Classic e OSF). <br>
-  Cursando Análise e Desenvolvimento de Sistemas na Uninter.
-</p>
+Tenho 21 anos e sou de Juazeiro do Norte, Ceará, Brasil. <br>
+Amo lo-fi e Pixel art. Crio algumas artes de vez em quando e você pode conferir [aqui :)](https://www.pixilart.com/oeliasdev)
 
-<p>
-  Essas são algumas tecnologias que conheço e estudo:
-</p>
+Estudo programação e desenvolvimento Web desde 2019 e atualmente trabalho na JBQ.Global como Desenvolvedor Fullstack Jr. <br>
+Atuo há quase dois anos com Oracle Commerce Cloud (Classic e OSF). <br>
+Cursando Análise e Desenvolvimento de Sistemas na Uninter.
 
-<div>
-  <img src="https://img.icons8.com/color/36/000000/javascript.png" title="Javascript" alt="Javascript" />
-  <img src="https://img.icons8.com/color/36/000000/typescript.png" title="Typescript" alt="Typescript" />
-  <img src="https://img.icons8.com/officel/36/000000/react.png" title="React" alt="React"/>
-  <img src="https://img.icons8.com/emoji/36/000000/nail-polish-.png" title="Styled components" alt="Styled Components"/>
-  <img src="https://img.icons8.com/color/36/000000/sass.png" title="Sass" alt="Sass"/>
-</div>
+Essas são algumas tecnologias que conheço e estudo:
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=eliasinacio&count_private=true&show_icons=true&theme=tokyonight" alt="Elias github status" width="430"/>
-  &nbsp; &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasinacio&layout=compact&theme=tokyonight" alt="Elias Top Languages" width="360"/>
-</div>
+![Javascript Icon](https://img.icons8.com/color/36/000000/javascript.png)
+![Typescript Icon](https://img.icons8.com/color/36/000000/typescript.png)
+![React Icon](https://img.icons8.com/officel/36/000000/react.png)
+![Styled Components Icon](https://img.icons8.com/emoji/36/000000/nail-polish-.png)
+![Sass Icon](https://img.icons8.com/color/36/000000/sass.png)
 
-<br>
 
-<blockquote> <em> Faça pouco ou faça muito, mas faça algo todos os dias. </em> </blockquote>
+![Elias github status](https://github-readme-stats.vercel.app/api?username=eliasinacio&count_private=true&show_icons=true&theme=tokyonight)
+![Elias Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasinacio&layout=compact&theme=tokyonight)
+
+
+> *Faça pouco ou faça muito, mas faça algo todo dia.*
