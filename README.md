@@ -14,10 +14,10 @@ Essas são algumas tecnologias que conheço e estudo:
 
 ![Javascript Icon](https://img.icons8.com/color/36/000000/javascript.png)
 ![Typescript Icon](https://img.icons8.com/color/36/000000/typescript.png)
+![Python Icon](https://img.icons8.com/color/36/000000/python.png)
 ![React Icon](https://img.icons8.com/officel/36/000000/react.png)
 ![Styled Components Icon](https://img.icons8.com/emoji/36/000000/nail-polish-.png)
 ![Sass Icon](https://img.icons8.com/color/36/000000/sass.png)
-
 
 ![Elias github status](https://github-readme-stats.vercel.app/api?username=eliasinacio&count_private=true&show_icons=true&theme=tokyonight)
 ![Elias Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasinacio&layout=compact&theme=tokyonight)
