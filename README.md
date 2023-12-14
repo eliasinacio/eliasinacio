@@ -12,13 +12,13 @@ Atuo como Desenvolvedor Fullstack Jr na [JBQ.Global](https://jbq.global). Há do
 
 Essas são algumas tecnologias com as quais já trabalhei:
 
-![Python Icon](https://img.icons8.com/color/36/000000/python.png)
-![Javascript Icon](https://img.icons8.com/color/36/000000/javascript.png)
-![Typescript Icon](https://img.icons8.com/color/36/000000/typescript.png)
-![React Icon](https://img.icons8.com/officel/36/000000/react.png)
-![Nextjs Icon](https://img.icons8.com/fluency-systems-regular/36/FFFFFF/nextjs.png)
-![Styled Components Icon](https://img.icons8.com/emoji/36/000000/nail-polish-.png)
-![Sass Icon](https://img.icons8.com/color/36/000000/sass.png)
+![Python Icon](https://img.icons8.com/color/36/000000/python.png "Python")
+![Javascript Icon](https://img.icons8.com/color/36/000000/javascript.png "Javascript")
+![Typescript Icon](https://img.icons8.com/color/36/000000/typescript.png "Typescript")
+![React Icon](https://img.icons8.com/officel/36/000000/react.png "ReactJS")
+![Nextjs Icon](https://img.icons8.com/fluency-systems-regular/36/FFFFFF/nextjs.png "NextJS")
+![Styled Components Icon](https://img.icons8.com/emoji/36/000000/nail-polish-.png "Styled Components")
+![Sass Icon](https://img.icons8.com/color/36/000000/sass.png "Sass")
 
 ![Elias github status](https://github-readme-stats.vercel.app/api?username=eliasinacio&count_private=true&show_icons=true&theme=tokyonight)
 ![Elias Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasinacio&layout=compact&theme=tokyonight)
