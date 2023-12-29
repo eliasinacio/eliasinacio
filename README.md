@@ -20,7 +20,7 @@ Essas são algumas tecnologias com as quais já trabalhei:
 ![Styled Components Icon](https://img.icons8.com/emoji/36/000000/nail-polish-.png "Styled Components")
 ![Sass Icon](https://img.icons8.com/color/36/000000/sass.png "Sass")
 
-![Elias github status](https://github-readme-stats.vercel.app/api?username=eliasinacio&count_private=true&show_icons=true&theme=tokyonight)
+<!-- ![Elias github status](https://github-readme-stats.vercel.app/api?username=eliasinacio&count_private=true&show_icons=true&theme=tokyonight) -->
 ![Elias Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasinacio&layout=compact&theme=tokyonight)
 
 
