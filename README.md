@@ -4,7 +4,7 @@
 [![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/eliasinacio)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_oeliasdev)
 
-Tenho 21 anos e sou de Juazeiro do Norte, Ceará, Brasil. <br>
+Tenho 22 anos e sou de Juazeiro do Norte, Ceará, Brasil. <br>
 Amo lo-fi e Pixel art. Crio algumas artes de vez em quando e você pode conferir [aqui :)](https://www.pixilart.com/oeliasdev)
 
 Estudo programação e desenvolvimento web desde 2019 e estou cursando Análise e Desenvolvimento de Sistemas na Uninter. <br>
