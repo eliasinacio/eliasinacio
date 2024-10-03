@@ -10,7 +10,7 @@ Amo lo-fi e Pixel art. Crio algumas artes de vez em quando e você pode conferir
 Estudo programação e desenvolvimento web desde 2019 e estou cursando Análise e Desenvolvimento de Sistemas na Uninter. <br>
 Atuo como Desenvolvedor Fullstack Jr na [JBQ.Global](https://jbq.global). Há dois anos trabalhando com Oracle Commerce Cloud (Classic e OSF).
 
-Essas são algumas tecnologias com as quais já trabalhei:
+Essas são algumas tecnologias que uso:
 
 ![Python Icon](https://img.icons8.com/color/36/000000/python.png "Python")
 ![Javascript Icon](https://img.icons8.com/color/36/000000/javascript.png "Javascript")
