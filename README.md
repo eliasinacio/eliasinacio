@@ -15,6 +15,7 @@ Essas são algumas tecnologias que uso:
 ![Python Icon](https://img.icons8.com/color/36/000000/python.png "Python")
 ![Javascript Icon](https://img.icons8.com/color/36/000000/javascript.png "Javascript")
 ![Typescript Icon](https://img.icons8.com/color/36/000000/typescript.png "Typescript")
+![NodeJs Icon](https://img.icons8.com/fluency/36/node-js.png "NodeJS")
 ![React Icon](https://img.icons8.com/officel/36/000000/react.png "ReactJS")
 ![Nextjs Icon](https://img.icons8.com/fluency-systems-regular/36/FFFFFF/nextjs.png "NextJS")
 ![Styled Components Icon](https://img.icons8.com/emoji/36/000000/nail-polish-.png "Styled Components")
